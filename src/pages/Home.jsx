@@ -29,7 +29,7 @@ const Home = () => {
           <Card name={x.name} price={x.price} />
         ))
       }
-     
+     <p>Hello</p>
     </div>
   )
 }
