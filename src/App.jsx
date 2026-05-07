@@ -12,6 +12,7 @@ const App = () => {
           <Route path="/query" element={<Query />} />
         </Routes>
       </Router>
+      <p>This is change</p>
     </>
 
   )
