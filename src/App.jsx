@@ -15,6 +15,7 @@ const App = () => {
       <p>This is for conflict</p>
       <p>This is change</p>
       <p>This is branch akash</p>
+      <p>this is pull request</p>
     </>
 
   )
